@@ -3,7 +3,7 @@ MSc Data Science and AI Dissertation Project focusing on Reclaimed Hate Speech i
 
 ## Introduction
 
-This repository contains 16 Jupyter Notebooks, all of which have the suffix "EZ". These Notebooks are presented in chronological order, following the project timeline, and were developed using Google Colab. Therefore, they require specific Colab dependencies to run successfully.
+This repository contains 16 Jupyter Notebooks, all of which have the suffix "EZ". These Notebooks are presented in chronological order, following the project timeline, and were developed using Google Colab. Therefore, they require specific Colab dependencies to run successfully. Accompanying datasets in CSV format can be found in the Datasets folder.
 
 ## Colab Dependencies
 Google Colab Notebooks often depend on certain packages and configurations that are pre-installed in the Colab environment. These may include, but are not limited to:
