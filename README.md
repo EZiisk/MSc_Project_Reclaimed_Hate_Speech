@@ -7,6 +7,9 @@ This repository contains 16 Jupyter Notebooks, all of which have the suffix "EZ"
 
 NB: Some Notebooks have been re-run for verification purposes and so their output may differ slightly from metrics displayed in the final dissertation paper.
 
+Fine tuned models can be found publicly on Huggingface -  EZiisk/EZ_finetune_Vidgen_model_RHS_Best and tokenizer EZiisk/EZ_finetune_Vidgen_model_RHS_Best_Tokenizer
+
+
 ## Colab Dependencies
 Google Colab Notebooks often depend on certain packages and configurations that are pre-installed in the Colab environment. These may include, but are not limited to:
 - Google Colab's specific Python version.
